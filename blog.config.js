@@ -12,7 +12,7 @@ const BLOG = {
 
   AUTHOR: '防骗评测员', // 作者
   BIO: '慧眼识套路，帮您防被骗', // 作者简介
-  LINK: 'https://www.baidu.com', // 网站地址
+  LINK: 'https://www.fppcy.com', // 网站地址
   KEYWORDS: 'Notion, 博客', // 网站关键词 英文逗号隔开
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: '1@1.com', // 邮箱
